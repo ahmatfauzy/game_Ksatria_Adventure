@@ -1,0 +1,12 @@
+Assets/latihan
+Assets/latihan.meta
+Library/
+Logs/
+Temp/
+Builds/
+.vs/
+UserSettings/
+Thumbs.db
+desktop.ini
+
+*.log
